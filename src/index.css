@@ -1,0 +1,15 @@
+:root {
+  background-color: #242424;
+}
+
+#root {
+  max-width: 880px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+body {
+  margin: 0;
+  min-width: 320px;
+  min-height: 100vh;
+}

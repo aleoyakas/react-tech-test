@@ -1,0 +1,11 @@
+.header {
+  height: 20vh;
+  display: flex;
+  justify-content: flex-end;
+  flex-direction: column;
+  place-items: centre;
+}
+
+.header--heading {
+  text-align: center;
+}

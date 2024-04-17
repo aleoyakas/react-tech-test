@@ -1,0 +1,16 @@
+.img {
+  margin: 0 auto;
+  display: block;
+}
+
+.img__sm {
+  width: 400px;
+}
+
+.img__md {
+  width: 600px;
+}
+
+.img__lg {
+  width: 800px;
+}
